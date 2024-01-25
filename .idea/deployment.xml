@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="production (project level)" confirmBeforeUploading="false" confirmBeforeDeletion="false" showAutoUploadSettingsWarning="false">
+    <option name="confirmBeforeDeletion" value="false" />
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="development">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/var/www/lucker_dev" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="production">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/var/www/lucker" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="production (project level)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/var/www/lucker" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
